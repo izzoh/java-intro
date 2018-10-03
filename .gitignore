@@ -7,3 +7,5 @@ HelloWorld/main/main.iml
 HelloWorld/out/production/main/HelloWorld.class
 HelloWorld/out/production/main/Main.class
 HelloWorld/out/production/main/Person.class
+HelloWorld/.idea/vcs.xml
+*.class
